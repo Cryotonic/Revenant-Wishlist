@@ -1,0 +1,157 @@
+title:Revenant Weapons
+
+// Insurmountable (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=414045521&perks=839105230,3142289711,776531651,2048641572,2041432007
+
+
+// Insurmountable (pve)
+//notes: tags:pve
+dimwishlist:item=414045521&perks=3661387068,1087426260,3523296417,3425386926
+
+
+// Insurmountable (pve)
+//notes: tags:pve
+dimwishlist:item=414045521&perks=4090651448,106909392,2073244114,2109543898
+
+
+// Insurmountable (pvp)
+//notes: tags:pvp
+dimwishlist:item=414045521&perks=1467527085,2420895100,4071163871,3708227201
+
+
+// Insurmountable (pve)
+//notes: tags:pve
+dimwishlist:item=414045521&perks=1840239774,3177308360,243981275,3955464425
+
+
+// Chroma Rush (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2598420927&perks=839105230,3142289711,1820235745,3891536761,3404929162
+
+
+// Chroma Rush (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2598420927&perks=3661387068,1087426260,1359896290,3425386926
+
+
+// Chroma Rush (pve)
+//notes: tags:pve
+dimwishlist:item=2598420927&perks=4090651448,106909392,2450788523,365154968
+
+
+// Liturgy (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2599338624&perks=1478423395,3032599245,1955165503,2978966579,2041432007
+
+
+// Liturgy (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2599338624&perks=1844523823,3301904089,2396422520,598607952
+
+
+// Liturgy (pve)
+//notes: tags:pve
+dimwishlist:item=2599338624&perks=3809316345,409831596,3987942396,4049631843
+
+
+// Bitter/Sweet (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2599338625&perks=1478423395,3301904089,3987942396,3078487919,2041432007
+
+
+// Bitter/Sweet (pve)
+//notes: tags:pve
+dimwishlist:item=2599338625&perks=1844523823,409831596,563069569,3966416502
+
+
+// Bitter/Sweet (pvp)
+//notes: tags:pvp
+dimwishlist:item=2599338625&perks=3809316345,2985827016,855168139,2275087323
+
+
+// Bitter/Sweet (pve)
+//notes: tags:pve
+dimwishlist:item=2599338625&perks=981914802,1771897777,1583705720,557221067
+
+
+// Exuviae (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2823644677&perks=839105230,3142289711,2617553311,1171887445,2041432007
+
+
+// Exuviae (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2823644677&perks=3661387068,106909392,3619207468,3038247973
+
+
+// Exuviae (pvp)
+//notes: tags:pvp
+dimwishlist:item=2823644677&perks=4090651448,1087426260,3400784728,555281244
+
+
+// Sovereignty (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3818198556&perks=839105230,3142289711,3038247973,1134488199,2041432007
+
+
+// Sovereignty (pve)
+//notes: tags:pve
+dimwishlist:item=3818198556&perks=3661387068,1087426260,2848615171,555281244
+
+
+// Sovereignty (pvp)
+//notes: tags:pvp
+dimwishlist:item=3818198556&perks=4090651448,106909392,3828510309,1771339417
+
+
+// Sovereignty (pvp)
+//notes: tags:pvp
+dimwishlist:item=3818198556&perks=1467527085,2420895100,3974407819,23371658
+
+
+// Sovereignty (pve)
+//notes: tags:pve
+dimwishlist:item=3818198556&perks=1840239774,3177308360,3523296417,438098033
+
+
+// Vantage Point (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3830941962&perks=839105230,3142289711,1194056669,3966416502,2041432007
+
+
+// Vantage Point (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3830941962&perks=3661387068,1087426260,3619207468,460017080
+
+
+// Vantage Point (pve)
+//notes: tags:pve
+dimwishlist:item=3830941962&perks=4090651448,106909392,2579169598,3047969693
+
+
+// Vantage Point (pve)
+//notes: tags:pve
+dimwishlist:item=3830941962&perks=1467527085,2420895100,2785334058,2002547233
+
+
+// Veleda-F (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=4200122994&perks=839105230,3142289711,2579169598,2904194311,1607056502
+
+
+// Veleda-F (pvp)
+//notes: tags:pvp
+dimwishlist:item=4200122994&perks=3661387068,1087426260,957782887,1194056669
+
+
+// Veleda-F (pve)
+//notes: tags:pve
+dimwishlist:item=4200122994&perks=4090651448,106909392,3993379141,2048641572
+
+
+// Veleda-F (pvp)
+//notes: tags:pvp
+dimwishlist:item=4200122994&perks=1467527085,2420895100,776531651,47981717
+
+
